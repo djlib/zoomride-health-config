@@ -8,7 +8,7 @@
     "W3": { "label": "MAS Wheelchair", "bg": "#ecb28f" },
     "W4": { "label": "Wheelchair Van + Wheelchair", "bg": "#ecb28f" },
     "M6": { "label": "Minivan", "bg": "#ecb28f" },
-    "S4": { "label": "Standard", "bg": "#ecb28f" },
+    "S4": { "label": "1Standard", "bg": "#ecb28f" },
     "P1": { "label": "Paused", "bg": "#ecb28f" },
     "B1": { "label": "Bariatric", "bg": "#ecb28f" },
     "S9": { "label": "Stretcher", "bg": "#ecb28f" },
