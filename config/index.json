@@ -1,0 +1,6 @@
+{
+  "fleets": [
+    { "companyId": "9031", "name": "ZoomRide Health" },
+    { "companyId": "1234", "name": "Another Fleet" }
+  ]
+}
