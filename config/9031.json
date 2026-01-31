@@ -1,8 +1,15 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-01-31T00:00:00Z",
   "companyId": "9031",
   "allowedSites": ["https://console4.icabbi.us/"],
+
+  "columns": {
+    "V": "N",
+    "N": "N",
+    "Zone Tags": "N"
+  },
+
   "mapping": {
     "R4": { "label": "Any Vehicle", "bg": "#ecb28f" },
     "W3": { "label": "MAS Wheelchair", "bg": "#ecb28f" },
@@ -21,6 +28,26 @@
     "B8": { "label": "B2B", "bg": "#ecb28f" },
 
     "S": { "label": "Ride Confirmed", "bg": "#ecb28f" },
-    "N": { "label": "Ride Not Confirmed", "bg": "#ecb28f" }
+    "N": { "label": "Ride Not Confirmed", "bg": "#ecb28f" },
+    "F": { "label": "Female", "bg": "#ecb28f" },
+    "M": { "label": "Male", "bg": "#ecb28f" },
+    "C": { "label": "Confirmed by Dispatch", "bg": "#ecb28f" },
+    "P": { "label": "PPO", "bg": "#ecb28f" },
+    "T": { "label": "Test", "bg": "#ecb28f" },
+    "O": { "label": "Out Of Area", "bg": "#ecb28f" },
+    "A": { "label": "Leg A", "bg": "#ecb28f" },
+    "B": { "label": "Leg B", "bg": "#ecb28f" },
+    "G": { "label": "D2D Service", "bg": "#ecb28f" },
+    "H": { "label": "Hospital Discharge", "bg": "#ecb28f" },
+    "E": { "label": "D2D + Steps", "bg": "#ecb28f" },
+    "2": { "label": "Additional Rider", "bg": "#ecb28f" },
+    "1": { "label": "Car Seat", "bg": "#ecb28f" },
+    "3": { "label": "Service Animal", "bg": "#ecb28f" },
+    "4": { "label": "Ortho Cushion", "bg": "#ecb28f" },
+    "K": { "label": "Credentialed", "bg": "#ecb28f" },
+    "Z": { "label": "Unreliable Client", "bg": "#ecb28f" },
+    "Q": { "label": "Leg Cancelled / No-Show", "bg": "#ecb28f" },
+    "Y": { "label": "Auto MAS Confirmation", "bg": "#ecb28f" },
+    "L": { "label": "Life Trained", "bg": "#ecb28f" }
   }
 }
