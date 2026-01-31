@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-31T00:00:00Z",
+  "companyId": "9031",
+  "allowedSites": ["https://console4.icabbi.us/"],
+  "mapping": {
+    "R4": { "label": "Any Vehicle", "bg": "#ecb28f" },
+    "W3": { "label": "MAS Wheelchair", "bg": "#ecb28f" },
+    "W4": { "label": "Wheelchair Van + Wheelchair", "bg": "#ecb28f" },
+    "M6": { "label": "Minivan", "bg": "#ecb28f" },
+    "S4": { "label": "Standard", "bg": "#ecb28f" },
+    "P1": { "label": "Paused", "bg": "#ecb28f" },
+    "B1": { "label": "Bariatric", "bg": "#ecb28f" },
+    "S9": { "label": "Stretcher", "bg": "#ecb28f" },
+    "W1": { "label": "Wheelchair", "bg": "#ecb28f" },
+    "A3": { "label": "MAS Ambulatory", "bg": "#ecb28f" },
+    "S3": { "label": "MAS Stretcher", "bg": "#ecb28f" },
+    "S1": { "label": "Stretcher Assist", "bg": "#ecb28f" },
+
+    "B9": { "label": "Break", "bg": "#ecb28f" },
+    "B8": { "label": "B2B", "bg": "#ecb28f" },
+
+    "S": { "label": "Ride Confirmed", "bg": "#ecb28f" },
+    "N": { "label": "Ride Not Confirmed", "bg": "#ecb28f" }
+  }
+}
