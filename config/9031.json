@@ -7,7 +7,7 @@
   "Operator View Custom": {
     "enabled": "Y",
     "tooltipsEnabled": "Y",
-    "removeText": ["WEB", "Taxi", "# 1for 1 PPL","PRE"]
+    "removeText": ["WEB", "Taxi", "# 1for 1 PPL","# 2for 1 PPL","# 3for 1 PPL","# 4for 1 PPL","PRE"]
   },
 
   "Time Mapping": {
