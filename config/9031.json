@@ -9,6 +9,8 @@
     "N": "N",
     "R": "N",
     "Zone Tags": "N"
+
+    "grid": { "forceFitColumns": "Y" }
   },
 
   "mapping": {
