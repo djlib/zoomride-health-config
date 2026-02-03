@@ -8,7 +8,7 @@
   "Remove WEB": "Y",
   "Remove Taxi": "Y",
   "Remove #1for1PPL": "Y"
-}
+},
   "mapping": {
     "R4": { "label": "Sedan", "bg": "#ecb28f" },
     "W3": { "label": "MAS-W/C", "bg": "#ecb28f" },
