@@ -10,10 +10,10 @@
   "Remove #1for1PPL": "Y"
 },
   "Time Mapping": {
-  "2359": { "meaning": "WILL CALL", "color": "#ecb28f" },
-  "2358": { "meaning": "NO Answer", "color": "#ecb28f" },
-  "2357": { "meaning": "MAS - No Show", "color": "#ecb28f" },
-  "2356": { "meaning": "MAS - First Leg Cancelled", "color": "#ecb28f" },
+  "2359": { "meaning": "WillCall", "color": "#ecb28f" },
+  "2358": { "meaning": "NoAnswer", "color": "#ecb28f" },
+  "2357": { "meaning": "MAS-No Show", "color": "#ecb28f" },
+  "2356": { "meaning": "MAS-A-Leg Cancelled", "color": "#ecb28f" },
   "2355": { "meaning": "MAS - MAS", "color": "#ecb28f" }
 },
   
