@@ -1,10 +1,14 @@
-n{
+{
   "version": 2,
   "updatedAt": "2026-01-31T00:00:00Z",
   "companyId": "9031",
   "allowedSites": ["https://console4.icabbi.us/"],
 
-
+"Operator View Custom": {
+  "Remove WEB": "Y",
+  "Remove Taxi": "Y",
+  "Remove #1for1PPL": "Y"
+}
   "mapping": {
     "R4": { "label": "Sedan", "bg": "#ecb28f" },
     "W3": { "label": "MAS-W/C", "bg": "#ecb28f" },
