@@ -5,10 +5,10 @@
   "allowedSites": ["https://console4.icabbi.us/"],
 
   "columns": {
-    "V": "Y",
-    "N": "Y",
-    "R": "Y",
-    "Zone Tags": "Y"
+    "V": "N",
+    "N": "N",
+    "R": "N",
+    "Zone Tags": "N"
   },
 
   "mapping": {
