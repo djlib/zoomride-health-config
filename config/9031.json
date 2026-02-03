@@ -5,10 +5,13 @@
   "allowedSites": ["https://console4.icabbi.us/"],
 
   "Operator View Custom": {
-    "Remove WEB": "Y",
-    "Remove Taxi": "Y",
-    "Remove #1for1PPL": "Y",
-    "tooltipsEnabled": "Y"
+    "enabled": "Y",
+    "tooltipsEnabled": "Y",
+    "removeText": [
+      "WEB",
+      "Taxi",
+      "#1for 1 PPL"
+    ]
   },
 
   "Time Mapping": {
