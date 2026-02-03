@@ -9,6 +9,14 @@
   "Remove Taxi": "Y",
   "Remove #1for1PPL": "Y"
 },
+  "Time Mapping": {
+  "2359": { "meaning": "WILL CALL", "color": "#ecb28f" },
+  "2358": { "meaning": "NO Answer", "color": "#ecb28f" },
+  "2357": { "meaning": "MAS - No Show", "color": "#ecb28f" },
+  "2356": { "meaning": "MAS - First Leg Cancelled", "color": "#ecb28f" },
+  "2355": { "meaning": "MAS - MAS", "color": "#ecb28f" }
+},
+  
   "mapping": {
     "R4": { "label": "Sedan", "bg": "#ecb28f" },
     "W3": { "label": "MAS-W/C", "bg": "#ecb28f" },
