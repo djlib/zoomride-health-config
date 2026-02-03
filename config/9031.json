@@ -1,4 +1,4 @@
-{
+n{
   "version": 2,
   "updatedAt": "2026-01-31T00:00:00Z",
   "companyId": "9031",
@@ -6,17 +6,17 @@
 
 
   "mapping": {
-    "R4": { "label": "Any Vehicle", "bg": "#ecb28f" },
-    "W3": { "label": "MAS Wheelchair", "bg": "#ecb28f" },
-    "W4": { "label": "Wheelchair Van + Wheelchair", "bg": "#ecb28f" },
-    "M6": { "label": "Minivan", "bg": "#ecb28f" },
+    "R4": { "label": "Sedan", "bg": "#ecb28f" },
+    "W3": { "label": "MAS-W/C", "bg": "#ecb28f" },
+    "W4": { "label": "W/C Van+W/C", "bg": "#ecb28f" },
+    "M6": { "label": "Van", "bg": "#ecb28f" },
     "S4": { "label": "Standard", "bg": "#ecb28f" },
     "P1": { "label": "Paused", "bg": "#ecb28f" },
     "B1": { "label": "Bariatric", "bg": "#ecb28f" },
     "S9": { "label": "Stretcher", "bg": "#ecb28f" },
-    "W1": { "label": "Wheelchair", "bg": "#ecb28f" },
-    "A3": { "label": "MAS Ambulatory", "bg": "#ecb28f" },
-    "S3": { "label": "MAS Stretcher", "bg": "#ecb28f" },
+    "W1": { "label": "W/C", "bg": "#ecb28f" },
+    "A3": { "label": "MAS-Amb", "bg": "#ecb28f" },
+    "S3": { "label": "MAS-Stretcher", "bg": "#ecb28f" },
     "S1": { "label": "Stretcher Assist", "bg": "#ecb28f" },
 
     "B9": { "label": "Break", "bg": "#ecb28f" },
