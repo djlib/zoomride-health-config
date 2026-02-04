@@ -24,12 +24,28 @@
       "color": "#ecb28f",
       "tooltip": "Trip is Will Call – dispatch after member confirmation"
     },
-    "2358": {
-      "meaning": "No Answer",
+    "Time Mapping": {
+    "2259": {
+      "meaning": "Will Call",
       "color": "#ecb28f",
-      "tooltip": "Member did not answer phone call"
+      "tooltip": "Trip is Will Call – dispatch after member confirmation"
+    },
+    "2358": {
+      "meaning": "",
+      "color": "#ecb28f",
+      "tooltip": ""
+    },
+      "2258": {
+      "meaning": "",
+      "color": "#ecb28f",
+      "tooltip": ""
     },
     "2357": {
+      "meaning": "No Answer",
+      "color": "#ecb28f",
+      "tooltip": "Customer Did Not Answer to Confirm their trip"
+    },
+      "2257": {
       "meaning": "No Answer",
       "color": "#ecb28f",
       "tooltip": "Customer Did Not Answer to Confirm their trip"
