@@ -68,16 +68,16 @@
     "B1": { "label": "Bariatric", "bg": "#ecb28f", "tooltip": "Bariatric transport required" },
     "S9": { "label": "Stretcher", "bg": "#ecb28f", "tooltip": "Stretcher transport" },
     "W1": { "label": "W/C", "bg": "#ecb28f", "tooltip": "Wheelchair passenger" },
-    "A3": { "label": "MAS-Amb", "bg": "#ecb28f", "tooltip": "MAS ambulatory assist" },
-    "S3": { "label": "MAS-Stretcher", "bg": "#ecb28f", "tooltip": "MAS stretcher transport" },
+    "A3": { "label": "MAS-Amb", "bg": "#F7DC37", "tooltip": "MAS ambulatory assist" },
+    "S3": { "label": "MAS-Stretcher", "bg": "#F7DC37", "tooltip": "MAS stretcher transport" },
     "S1": { "label": "Stretcher Assist", "bg": "#ecb28f", "tooltip": "Stretcher assist required" },
     "B9": { "label": "Break", "bg": "#ecb28f", "tooltip": "Driver break period" },
     "B8": { "label": "B2B", "bg": "#ecb28f", "tooltip": "Back-to-base trip" },
-    "S": { "label": "Confirmed", "bg": "#ecb28f", "tooltip": "Trip confirmed" },
-    "N": { "label": "NotConfirmed", "bg": "#ecb28f", "tooltip": "Trip not confirmed" },
+    "S": { "label": "Confirmed", "bg": "#7EFF6B", "tooltip": "Trip confirmed" },
+    "N": { "label": "NotConfirmed", "bg": "#636363", "tooltip": "Trip not confirmed" },
     "F": { "label": "Female", "bg": "#ecb28f", "tooltip": "Female passenger" },
     "M": { "label": "Male", "bg": "#ecb28f", "tooltip": "Male passenger" },
-    "C": { "label": "D-Confirmed", "bg": "#ecb28f", "tooltip": "Confirmed by dispatch" },
+    "C": { "label": "D-Confirmed", "bg": "#7EFF6B", "tooltip": "Confirmed by dispatch" },
     "P": { "label": "PPO", "bg": "#ecb28f", "tooltip": "Preferred Provider Organization" },
     "T": { "label": "Test", "bg": "#ecb28f", "tooltip": "Test booking" },
     "O": { "label": "OutOfArea", "bg": "#ecb28f", "tooltip": "Out of service area" },
@@ -94,6 +94,6 @@
     "Z": { "label": "Unreliable", "bg": "#ecb28f", "tooltip": "Unreliable passenger" },
     "Q": { "label": "Leg Cancelled / No-Show", "bg": "#ecb28f", "tooltip": "Leg cancelled or no-show" },
     "Y": { "label": "AutoConfirmed", "bg": "#ecb28f", "tooltip": "Automatically confirmed" },
-    "L": { "label": "Life Trained", "bg": "#ecb28f", "tooltip": "Life support trained driver" }
+    "L": { "label": "Life Trained", "bg": "#F7DC37", "tooltip": "Life support trained driver" }
   }
 }
