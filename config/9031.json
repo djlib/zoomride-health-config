@@ -30,9 +30,9 @@
       "tooltip": "Member did not answer phone call"
     },
     "2357": {
-      "meaning": "Dispatch WillCall",
+      "meaning": "No Answer",
       "color": "#ecb28f",
-      "tooltip": "Dispatcher Moved it to Will Call"
+      "tooltip": "Customer Did Not Answer to Confirm their trip"
     },
     "2356": {
       "meaning": "A-Leg Cancelled",
