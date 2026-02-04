@@ -30,19 +30,19 @@
       "tooltip": "Member did not answer phone call"
     },
     "2357": {
-      "meaning": "MAS - No Show",
+      "meaning": "Dispatch WillCall",
       "color": "#ecb28f",
-      "tooltip": "MAS trip marked as No Show"
+      "tooltip": "Dispatcher Moved it to Will Call"
     },
     "2356": {
-      "meaning": "MAS - A Leg Cancelled",
+      "meaning": "A-Leg Cancelled",
       "color": "#ecb28f",
-      "tooltip": "MAS trip – first leg cancelled"
+      "tooltip": "A Leg Cancelled, B Leg Still Might Go"
     },
-    "2355": {
-      "meaning": "MAS - MAS",
+    "2256": {
+      "meaning": "A-Leg Cancelled",
       "color": "#ecb28f",
-      "tooltip": "General MAS system status"
+      "tooltip": "A Leg Cancelled, B Leg Still Might Go"
     }
   },
 
