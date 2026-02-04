@@ -3,7 +3,6 @@
   "updatedAt": "2026-02-03T00:00:00Z",
   "companyId": "9031",
   "allowedSites": ["https://console4.icabbi.us/"],
-
   "Operator View Custom": {
     "enabled": "Y",
     "tooltipsEnabled": "Y",
@@ -17,14 +16,12 @@
       "# 4for 1 PPL"
     ]
   },
-
   "Time Mapping": {
     "2359": {
       "meaning": "Will Call",
       "color": "#ecb28f",
       "tooltip": "Trip is Will Call – dispatch after member confirmation"
     },
-    "Time Mapping": {
     "2259": {
       "meaning": "Will Call",
       "color": "#ecb28f",
@@ -35,7 +32,7 @@
       "color": "#ecb28f",
       "tooltip": ""
     },
-      "2258": {
+    "2258": {
       "meaning": "",
       "color": "#ecb28f",
       "tooltip": ""
@@ -45,7 +42,7 @@
       "color": "#ecb28f",
       "tooltip": "Customer Did Not Answer to Confirm their trip"
     },
-      "2257": {
+    "2257": {
       "meaning": "No Answer",
       "color": "#ecb28f",
       "tooltip": "Customer Did Not Answer to Confirm their trip"
@@ -61,14 +58,12 @@
       "tooltip": "A Leg Cancelled, B Leg Still Might Go"
     }
   },
-
   "mapping": {
     "R4": { "label": "Sedan", "bg": "#ecb28f", "tooltip": "Standard sedan vehicle" },
     "W3": { "label": "MAS-W/C", "bg": "#ecb28f", "tooltip": "MAS wheelchair transport" },
     "W4": { "label": "W/C Van+W/C", "bg": "#ecb28f", "tooltip": "Wheelchair van with wheelchair" },
     "M6": { "label": "Van", "bg": "#ecb28f", "tooltip": "Standard passenger van" },
     "S4": { "label": "Standard", "bg": "#ecb28f", "tooltip": "Standard ride type" },
-
     "P1": { "label": "Paused", "bg": "#ecb28f", "tooltip": "Trip currently paused" },
     "B1": { "label": "Bariatric", "bg": "#ecb28f", "tooltip": "Bariatric transport required" },
     "S9": { "label": "Stretcher", "bg": "#ecb28f", "tooltip": "Stretcher transport" },
@@ -76,10 +71,8 @@
     "A3": { "label": "MAS-Amb", "bg": "#ecb28f", "tooltip": "MAS ambulatory assist" },
     "S3": { "label": "MAS-Stretcher", "bg": "#ecb28f", "tooltip": "MAS stretcher transport" },
     "S1": { "label": "Stretcher Assist", "bg": "#ecb28f", "tooltip": "Stretcher assist required" },
-
     "B9": { "label": "Break", "bg": "#ecb28f", "tooltip": "Driver break period" },
     "B8": { "label": "B2B", "bg": "#ecb28f", "tooltip": "Back-to-base trip" },
-
     "S": { "label": "Confirmed", "bg": "#ecb28f", "tooltip": "Trip confirmed" },
     "N": { "label": "NotConfirmed", "bg": "#ecb28f", "tooltip": "Trip not confirmed" },
     "F": { "label": "Female", "bg": "#ecb28f", "tooltip": "Female passenger" },
@@ -88,18 +81,15 @@
     "P": { "label": "PPO", "bg": "#ecb28f", "tooltip": "Preferred Provider Organization" },
     "T": { "label": "Test", "bg": "#ecb28f", "tooltip": "Test booking" },
     "O": { "label": "OutOfArea", "bg": "#ecb28f", "tooltip": "Out of service area" },
-
     "A": { "label": "Leg A", "bg": "#ecb28f", "tooltip": "First leg of multi-leg trip" },
     "B": { "label": "Leg B", "bg": "#ecb28f", "tooltip": "Second leg of multi-leg trip" },
     "G": { "label": "D2D", "bg": "#ecb28f", "tooltip": "Door-to-door service" },
     "H": { "label": "Hospital Discharge", "bg": "#ecb28f", "tooltip": "Hospital discharge trip" },
     "E": { "label": "D2D & Steps", "bg": "#ecb28f", "tooltip": "Door-to-door with steps" },
-
     "2": { "label": "+1 Rider", "bg": "#ecb28f", "tooltip": "Additional passenger" },
     "1": { "label": "Car Seat", "bg": "#ecb28f", "tooltip": "Car seat required" },
     "3": { "label": "Animal", "bg": "#ecb28f", "tooltip": "Service or support animal" },
     "4": { "label": "O-Cushion", "bg": "#ecb28f", "tooltip": "Ortho cushion" },
-
     "K": { "label": "Credentialed", "bg": "#ecb28f", "tooltip": "Credentialed driver required" },
     "Z": { "label": "Unreliable", "bg": "#ecb28f", "tooltip": "Unreliable passenger" },
     "Q": { "label": "Leg Cancelled / No-Show", "bg": "#ecb28f", "tooltip": "Leg cancelled or no-show" },
