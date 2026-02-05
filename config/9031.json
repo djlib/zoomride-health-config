@@ -18,12 +18,12 @@
   },
   "Time Mapping": {
     "2359": {
-      "meaning": "Will Call",
+      "meaning": "WillCall",
       "color": "#ecb28f",
       "tooltip": "Trip is Will Call – dispatch after member confirmation"
     },
     "2259": {
-      "meaning": "Will Call",
+      "meaning": "WillCall",
       "color": "#ecb28f",
       "tooltip": "Trip is Will Call – dispatch after member confirmation"
     },
@@ -38,22 +38,22 @@
       "tooltip": ""
     },
     "2357": {
-      "meaning": "No Answer",
+      "meaning": "NoAns",
       "color": "#ecb28f",
       "tooltip": "Customer Did Not Answer to Confirm their trip"
     },
     "2257": {
-      "meaning": "No Answer",
+      "meaning": "NoAns",
       "color": "#ecb28f",
       "tooltip": "Customer Did Not Answer to Confirm their trip"
     },
     "2356": {
-      "meaning": "A-Leg Cancelled",
+      "meaning": "A-Leg X",
       "color": "#ecb28f",
       "tooltip": "A Leg Cancelled, B Leg Still Might Go"
     },
     "2256": {
-      "meaning": "A-Leg Cancelled",
+      "meaning": "A-Leg X",
       "color": "#ecb28f",
       "tooltip": "A Leg Cancelled, B Leg Still Might Go"
     }
