@@ -92,7 +92,7 @@
     "4": { "label": "O-Cushion", "bg": "#ecb28f", "tooltip": "Ortho cushion" },
     "K": { "label": "Credentialed", "bg": "#ecb28f", "tooltip": "Credentialed driver required" },
     "Z": { "label": "Unreliable", "bg": "#ecb28f", "tooltip": "Unreliable passenger" },
-    "Q": { "label": "Leg Cancelled / No-Show", "bg": "#ecb28f", "tooltip": "Leg cancelled or no-show" },
+    "Q": { "label": "A Leg X/NS", "bg": "#ecb28f", "tooltip": "Leg cancelled or no-show" },
     "Y": { "label": "AutoConfirmed", "bg": "#ecb28f", "tooltip": "Automatically confirmed" },
     "L": { "label": "Life Trained", "bg": "#F7DC37", "tooltip": "Life support trained driver" }
   }
